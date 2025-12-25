@@ -1,23 +1,13 @@
 💫 Hi 👋, I'm Noman
 
 A passionate Full Stack Developer || Web Developer || MUN Website Builder from Pakistan
-
 📧 Open for collaboration, projects, and development work. 😊
-
-🔭 I’m currently working on: A Model United Nations (MUN) Website
-
 🌱 I’m currently learning: Advanced Full Stack Development & Performance Optimization
-
 👯 I’m looking to collaborate on: Web Development Projects & Startup Ideas
-
 🤔 I’m looking for help with: Scaling projects & advanced backend architecture
-
 💬 Ask me about: Full Stack Development, Next.js, APIs, Strapi CMS
-
 📫 How to reach me: GitHub / Social Platforms
-
 😄 Pronouns: Noman
-
 ⚡ Fun fact: I turn ideas into websites 🚀
 
 ## 🌐 Socials:
