@@ -1,6 +1,24 @@
-# 💫 About Me:
-I am a Full Stack Developer with a passion for building modern, scalable, and user-friendly web applications.<br>Currently, I am working on a Model United Nations (MUN) website, where I focus on creating clean user interfaces, efficient backend systems, and smooth API integrations.<br><br>I have experience working across both frontend and backend, using modern JavaScript frameworks, REST APIs, and headless CMS solutions like Strapi.<br>I enjoy solving real-world problems through clean code, performance optimization, and responsive design.<br><br>I am always eager to learn new technologies, improve my skills, and build digital products that are fast, reliable, and impactful.
+💫 Hi 👋, I'm Noman
 
+A passionate Full Stack Developer || Web Developer || MUN Website Builder from Pakistan
+
+📧 Open for collaboration, projects, and development work. 😊
+
+🔭 I’m currently working on: A Model United Nations (MUN) Website
+
+🌱 I’m currently learning: Advanced Full Stack Development & Performance Optimization
+
+👯 I’m looking to collaborate on: Web Development Projects & Startup Ideas
+
+🤔 I’m looking for help with: Scaling projects & advanced backend architecture
+
+💬 Ask me about: Full Stack Development, Next.js, APIs, Strapi CMS
+
+📫 How to reach me: GitHub / Social Platforms
+
+😄 Pronouns: Noman
+
+⚡ Fun fact: I turn ideas into websites 🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/noman.nomi.139130) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/noman_nomi_102/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@noman.dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nomi4698dg@gmail.com) 
