@@ -1,14 +1,15 @@
-💫 Hi 👋, I'm Noman
+# 💫 Hi 👋, I'm Noman
 
-A passionate Full Stack Developer || Web Developer || MUN Website Builder from Pakistan
-📧 Open for collaboration, projects, and development work. 😊
-🌱 I’m currently learning: Advanced Full Stack Development & Performance Optimization
-👯 I’m looking to collaborate on: Web Development Projects & Startup Ideas
-🤔 I’m looking for help with: Scaling projects & advanced backend architecture
-💬 Ask me about: Full Stack Development, Next.js, APIs, Strapi CMS
-📫 How to reach me: GitHub / Social Platforms
-😄 Pronouns: Noman
-⚡ Fun fact: I turn ideas into websites 🚀
+**A passionate Full Stack Developer || Web Developer || MUN Website Builder from Pakistan**
+
+- 📧 Open for collaboration, projects, and development work. 😊
+- 🌱 I’m currently learning: Advanced Full Stack Development & Performance Optimization
+- 👯 I’m looking to collaborate on: Web Development Projects & Startup Ideas
+- 🤔 I’m looking for help with: Scaling projects & advanced backend architecture
+- 💬 Ask me about: Full Stack Development, Next.js, APIs, Strapi CMS
+- 📫 How to reach me: contact / 03069810032
+- 😄 Pronouns: Noman.Dev
+- ⚡ Fun fact: I turn ideas into websites 🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/noman.nomi.139130) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/noman_nomi_102/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@noman.dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nomi4698dg@gmail.com) 
